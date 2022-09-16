@@ -12,18 +12,14 @@ const Dashboard = () => {
   const [isEditing, setIsEditing] = useState(false);
   const [selectedEmployee, setSelectedEmployee] = useState(null);
 
-  const handleAddEmployee = () => {
-    console.log("handle add employee");
-  };
 
   const handleEdit = (employeeId) => {
     console.log("handle edit", employeeId);
     setIsEditing(true);
+    setSelectedEmployee(employeeData.filter((emp) => emp.id === employeeId)[0]);
   };
 
   const handleDelete = async (employeeId) => {
-    // console.log("handle delete", employeeId);
-
     try {
       const result = await Swal.fire({
         icon: "warning",
@@ -74,7 +70,7 @@ const Dashboard = () => {
           employees={employees}
           selectedEmployee={selectedEmployee}
           setEmployees={setEmployees}
-          setIsAdding={setIsAdding}
+          setIsEditing={setIsEditing}
         />
       )}
     </div>
