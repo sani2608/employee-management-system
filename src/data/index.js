@@ -4,7 +4,7 @@ const employeeData = [
     first_name: "Mariska",
     last_name: "Lisimore",
     email: "mlisimore0@lulu.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "4/27/2022",
   },
   {
@@ -12,7 +12,7 @@ const employeeData = [
     first_name: "Jessamyn",
     last_name: "Wernham",
     email: "jwernham1@latimes.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/24/2022",
   },
   {
@@ -20,7 +20,7 @@ const employeeData = [
     first_name: "Laetitia",
     last_name: "Bundey",
     email: "lbundey2@baidu.com",
-    salary: "Peso",
+    salary: "100000",
     date: "2/19/2022",
   },
   {
@@ -28,7 +28,7 @@ const employeeData = [
     first_name: "Forester",
     last_name: "Windle",
     email: "fwindle3@spiegel.de",
-    salary: "Dollar",
+    salary: "100000",
     date: "2/11/2022",
   },
   {
@@ -36,7 +36,7 @@ const employeeData = [
     first_name: "Niall",
     last_name: "McInnes",
     email: "nmcinnes4@cdc.gov",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "7/9/2022",
   },
   {
@@ -44,7 +44,7 @@ const employeeData = [
     first_name: "Bear",
     last_name: "Sertin",
     email: "bsertin5@netlog.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "8/25/2022",
   },
   {
@@ -52,7 +52,7 @@ const employeeData = [
     first_name: "Isis",
     last_name: "Gemlett",
     email: "igemlett6@cpanel.net",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "11/14/2021",
   },
   {
@@ -68,7 +68,7 @@ const employeeData = [
     first_name: "Sonia",
     last_name: "Willimott",
     email: "swillimott8@google.es",
-    salary: "Rial",
+    salary: "100000",
     date: "9/28/2021",
   },
   {
@@ -76,7 +76,7 @@ const employeeData = [
     first_name: "Ulick",
     last_name: "Graeser",
     email: "ugraeser9@skyrock.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "8/10/2022",
   },
   {
@@ -84,7 +84,7 @@ const employeeData = [
     first_name: "Marta",
     last_name: "Blaxall",
     email: "mblaxalla@who.int",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/1/2022",
   },
   {
@@ -92,7 +92,7 @@ const employeeData = [
     first_name: "Daryl",
     last_name: "Adamek",
     email: "dadamekb@parallels.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "3/15/2022",
   },
   {
@@ -100,7 +100,7 @@ const employeeData = [
     first_name: "Loretta",
     last_name: "Coffee",
     email: "lcoffeec@cdc.gov",
-    salary: "Shilling",
+    salary: "100000",
     date: "4/24/2022",
   },
   {
@@ -108,7 +108,7 @@ const employeeData = [
     first_name: "Bogart",
     last_name: "Turbard",
     email: "bturbardd@mediafire.com",
-    salary: "Krone",
+    salary: "100000",
     date: "3/10/2022",
   },
   {
@@ -116,7 +116,7 @@ const employeeData = [
     first_name: "Sophey",
     last_name: "Fidelli",
     email: "sfidellie@acquirethisname.com",
-    salary: "Zloty",
+    salary: "100000",
     date: "2/12/2022",
   },
   {
@@ -124,7 +124,7 @@ const employeeData = [
     first_name: "Jaime",
     last_name: "McSorley",
     email: "jmcsorleyf@sohu.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "9/15/2022",
   },
   {
@@ -132,7 +132,7 @@ const employeeData = [
     first_name: "Suzann",
     last_name: "Dei",
     email: "sdeig@linkedin.com",
-    salary: "Yen",
+    salary: "100000",
     date: "11/8/2021",
   },
   {
@@ -140,7 +140,7 @@ const employeeData = [
     first_name: "Florence",
     last_name: "Ferraron",
     email: "fferraronh@google.pl",
-    salary: "Dollar",
+    salary: "100000",
     date: "3/28/2022",
   },
   {
@@ -148,7 +148,7 @@ const employeeData = [
     first_name: "Miquela",
     last_name: "Sawney",
     email: "msawneyi@berkeley.edu",
-    salary: "Krona",
+    salary: "100000",
     date: "1/21/2022",
   },
   {
@@ -156,7 +156,7 @@ const employeeData = [
     first_name: "Rogerio",
     last_name: "Ridolfi",
     email: "rridolfij@gizmodo.com",
-    salary: "Krona",
+    salary: "100000",
     date: "10/17/2021",
   },
   {
@@ -164,7 +164,7 @@ const employeeData = [
     first_name: "Halley",
     last_name: "St. Clair",
     email: "hstclairk@unesco.org",
-    salary: "Ruble",
+    salary: "100000",
     date: "4/5/2022",
   },
   {
@@ -172,7 +172,7 @@ const employeeData = [
     first_name: "Carr",
     last_name: "Lennox",
     email: "clennoxl@gravatar.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/21/2022",
   },
   {
@@ -180,7 +180,7 @@ const employeeData = [
     first_name: "Cullin",
     last_name: "Olenikov",
     email: "colenikovm@nbcnews.com",
-    salary: "Euro",
+    salary: "100000",
     date: "10/7/2021",
   },
   {
@@ -188,7 +188,7 @@ const employeeData = [
     first_name: "Merola",
     last_name: "Mulkerrins",
     email: "mmulkerrinsn@chron.com",
-    salary: "Euro",
+    salary: "100000",
     date: "9/9/2022",
   },
   {
@@ -196,7 +196,7 @@ const employeeData = [
     first_name: "Borden",
     last_name: "MacLeese",
     email: "bmacleeseo@sourceforge.net",
-    salary: "Dollar",
+    salary: "100000",
     date: "7/1/2022",
   },
   {
@@ -204,7 +204,7 @@ const employeeData = [
     first_name: "Ardath",
     last_name: "MacBarron",
     email: "amacbarronp@twitter.com",
-    salary: "Euro",
+    salary: "100000",
     date: "5/5/2022",
   },
   {
@@ -212,7 +212,7 @@ const employeeData = [
     first_name: "Carlota",
     last_name: "Pinnegar",
     email: "cpinnegarq@umich.edu",
-    salary: "Rupiah",
+    salary: "100000",
     date: "12/23/2021",
   },
   {
@@ -220,7 +220,7 @@ const employeeData = [
     first_name: "Ignacius",
     last_name: "Selkirk",
     email: "iselkirkr@washingtonpost.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "4/8/2022",
   },
   {
@@ -228,7 +228,7 @@ const employeeData = [
     first_name: "Wynnie",
     last_name: "Dodshon",
     email: "wdodshons@sbwire.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "12/18/2021",
   },
   {
@@ -244,7 +244,7 @@ const employeeData = [
     first_name: "Errol",
     last_name: "Peacocke",
     email: "epeacockeu@mediafire.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "7/24/2022",
   },
   {
@@ -252,7 +252,7 @@ const employeeData = [
     first_name: "Celinda",
     last_name: "Harhoff",
     email: "charhoffv@eepurl.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "10/22/2021",
   },
   {
@@ -260,7 +260,7 @@ const employeeData = [
     first_name: "Blakelee",
     last_name: "McEnery",
     email: "bmceneryw@google.co.uk",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "4/27/2022",
   },
   {
@@ -268,7 +268,7 @@ const employeeData = [
     first_name: "Mickey",
     last_name: "Hegg",
     email: "mheggx@unicef.org",
-    salary: "Krone",
+    salary: "100000",
     date: "4/28/2022",
   },
   {
@@ -276,7 +276,7 @@ const employeeData = [
     first_name: "Nicola",
     last_name: "Stephenson",
     email: "nstephensony@patch.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "7/23/2022",
   },
   {
@@ -284,7 +284,7 @@ const employeeData = [
     first_name: "Ralf",
     last_name: "McPhilemy",
     email: "rmcphilemyz@ucsd.edu",
-    salary: "Dollar",
+    salary: "100000",
     date: "5/13/2022",
   },
   {
@@ -292,7 +292,7 @@ const employeeData = [
     first_name: "Deeyn",
     last_name: "Sanchis",
     email: "dsanchis10@time.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/12/2022",
   },
   {
@@ -300,7 +300,7 @@ const employeeData = [
     first_name: "Annora",
     last_name: "Searby",
     email: "asearby11@ocn.ne.jp",
-    salary: "Euro",
+    salary: "100000",
     date: "10/21/2021",
   },
   {
@@ -308,7 +308,7 @@ const employeeData = [
     first_name: "Hatty",
     last_name: "Fowler",
     email: "hfowler12@cmu.edu",
-    salary: "Manat",
+    salary: "100000",
     date: "10/31/2021",
   },
   {
@@ -316,7 +316,7 @@ const employeeData = [
     first_name: "Nancie",
     last_name: "Dummer",
     email: "ndummer13@tripod.com",
-    salary: "Zloty",
+    salary: "100000",
     date: "8/4/2022",
   },
   {
@@ -324,7 +324,7 @@ const employeeData = [
     first_name: "Stirling",
     last_name: "Bonafant",
     email: "sbonafant14@google.ca",
-    salary: "Hryvnia",
+    salary: "100000",
     date: "11/5/2021",
   },
   {
@@ -348,7 +348,7 @@ const employeeData = [
     first_name: "Ailis",
     last_name: "Andryushin",
     email: "aandryushin17@state.gov",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/9/2022",
   },
   {
@@ -356,7 +356,7 @@ const employeeData = [
     first_name: "Ximenez",
     last_name: "Stockley",
     email: "xstockley18@yandex.ru",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "3/6/2022",
   },
   {
@@ -364,7 +364,7 @@ const employeeData = [
     first_name: "Orlan",
     last_name: "Nossent",
     email: "onossent19@mlb.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "4/12/2022",
   },
   {
@@ -372,7 +372,7 @@ const employeeData = [
     first_name: "Barbaraanne",
     last_name: "Rayer",
     email: "brayer1a@sohu.com",
-    salary: "Real",
+    salary: "100000",
     date: "7/15/2022",
   },
   {
@@ -388,7 +388,7 @@ const employeeData = [
     first_name: "Lisha",
     last_name: "Cohn",
     email: "lcohn1c@theglobeandmail.com",
-    salary: "Euro",
+    salary: "100000",
     date: "5/24/2022",
   },
   {
@@ -396,7 +396,7 @@ const employeeData = [
     first_name: "Barby",
     last_name: "Goggin",
     email: "bgoggin1d@youtube.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "7/9/2022",
   },
   {
@@ -404,7 +404,7 @@ const employeeData = [
     first_name: "Ludovico",
     last_name: "Bowld",
     email: "lbowld1e@engadget.com",
-    salary: "Peso",
+    salary: "100000",
     date: "5/24/2022",
   },
   {
@@ -412,7 +412,7 @@ const employeeData = [
     first_name: "Vina",
     last_name: "Trobey",
     email: "vtrobey1f@globo.com",
-    salary: "Real",
+    salary: "100000",
     date: "12/14/2021",
   },
   {
@@ -420,7 +420,7 @@ const employeeData = [
     first_name: "Cchaddie",
     last_name: "Burth",
     email: "cburth1g@go.com",
-    salary: "Dram",
+    salary: "100000",
     date: "9/17/2021",
   },
   {
@@ -428,7 +428,7 @@ const employeeData = [
     first_name: "Hercule",
     last_name: "Hutton",
     email: "hhutton1h@globo.com",
-    salary: "Pound",
+    salary: "100000",
     date: "1/19/2022",
   },
   {
@@ -436,7 +436,7 @@ const employeeData = [
     first_name: "Colas",
     last_name: "Fripp",
     email: "cfripp1i@geocities.jp",
-    salary: "Ruble",
+    salary: "100000",
     date: "1/12/2022",
   },
   {
@@ -444,7 +444,7 @@ const employeeData = [
     first_name: "Yettie",
     last_name: "Godfery",
     email: "ygodfery1j@vkontakte.ru",
-    salary: "Peso",
+    salary: "100000",
     date: "4/3/2022",
   },
   {
@@ -452,7 +452,7 @@ const employeeData = [
     first_name: "Ashil",
     last_name: "Challinor",
     email: "achallinor1k@tinypic.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "1/25/2022",
   },
   {
@@ -460,7 +460,7 @@ const employeeData = [
     first_name: "Dora",
     last_name: "Gethyn",
     email: "dgethyn1l@washington.edu",
-    salary: "Euro",
+    salary: "100000",
     date: "8/28/2022",
   },
   {
@@ -468,7 +468,7 @@ const employeeData = [
     first_name: "Theresina",
     last_name: "Cundy",
     email: "tcundy1m@tmall.com",
-    salary: "Peso",
+    salary: "100000",
     date: "6/24/2022",
   },
   {
@@ -476,7 +476,7 @@ const employeeData = [
     first_name: "Micky",
     last_name: "Retchford",
     email: "mretchford1n@google.nl",
-    salary: "Euro",
+    salary: "100000",
     date: "8/25/2022",
   },
   {
@@ -492,7 +492,7 @@ const employeeData = [
     first_name: "Amory",
     last_name: "Balf",
     email: "abalf1p@icq.com",
-    salary: "Hryvnia",
+    salary: "100000",
     date: "8/4/2022",
   },
   {
@@ -500,7 +500,7 @@ const employeeData = [
     first_name: "Fredericka",
     last_name: "Edgett",
     email: "fedgett1q@flickr.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "1/18/2022",
   },
   {
@@ -508,7 +508,7 @@ const employeeData = [
     first_name: "Preston",
     last_name: "Colbeck",
     email: "pcolbeck1r@telegraph.co.uk",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "10/9/2021",
   },
   {
@@ -516,7 +516,7 @@ const employeeData = [
     first_name: "Waverley",
     last_name: "Gherardi",
     email: "wgherardi1s@friendfeed.com",
-    salary: "Somoni",
+    salary: "100000",
     date: "11/30/2021",
   },
   {
@@ -524,7 +524,7 @@ const employeeData = [
     first_name: "Jilly",
     last_name: "Pettingall",
     email: "jpettingall1t@samsung.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "10/4/2021",
   },
   {
@@ -532,7 +532,7 @@ const employeeData = [
     first_name: "Juieta",
     last_name: "Fishburn",
     email: "jfishburn1u@reverbnation.com",
-    salary: "Pound",
+    salary: "100000",
     date: "10/19/2021",
   },
   {
@@ -540,7 +540,7 @@ const employeeData = [
     first_name: "Aridatha",
     last_name: "O'Hear",
     email: "aohear1v@com.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "6/20/2022",
   },
   {
@@ -548,7 +548,7 @@ const employeeData = [
     first_name: "Gnni",
     last_name: "Heninghem",
     email: "gheninghem1w@people.com.cn",
-    salary: "Peso",
+    salary: "100000",
     date: "11/7/2021",
   },
   {
@@ -556,7 +556,7 @@ const employeeData = [
     first_name: "Brucie",
     last_name: "Orable",
     email: "borable1x@mayoclinic.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "8/14/2022",
   },
   {
@@ -564,7 +564,7 @@ const employeeData = [
     first_name: "Reeba",
     last_name: "Snead",
     email: "rsnead1y@independent.co.uk",
-    salary: "Zloty",
+    salary: "100000",
     date: "7/28/2022",
   },
   {
@@ -572,7 +572,7 @@ const employeeData = [
     first_name: "Fairleigh",
     last_name: "Rawsthorn",
     email: "frawsthorn1z@ezinearticles.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "5/30/2022",
   },
   {
@@ -588,7 +588,7 @@ const employeeData = [
     first_name: "Laurel",
     last_name: "Barbrick",
     email: "lbarbrick21@1688.com",
-    salary: "Dinar",
+    salary: "100000",
     date: "12/6/2021",
   },
   {
@@ -596,7 +596,7 @@ const employeeData = [
     first_name: "Gottfried",
     last_name: "Brauns",
     email: "gbrauns22@trellian.com",
-    salary: "Euro",
+    salary: "100000",
     date: "11/2/2021",
   },
   {
@@ -604,7 +604,7 @@ const employeeData = [
     first_name: "Renata",
     last_name: "McRitchie",
     email: "rmcritchie23@biblegateway.com",
-    salary: "Peso",
+    salary: "100000",
     date: "10/6/2021",
   },
   {
@@ -612,7 +612,7 @@ const employeeData = [
     first_name: "Valentina",
     last_name: "Huyche",
     email: "vhuyche24@simplemachines.org",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "8/3/2022",
   },
   {
@@ -620,7 +620,7 @@ const employeeData = [
     first_name: "Mureil",
     last_name: "Stove",
     email: "mstove25@odnoklassniki.ru",
-    salary: "Dram",
+    salary: "100000",
     date: "7/31/2022",
   },
   {
@@ -628,7 +628,7 @@ const employeeData = [
     first_name: "Rich",
     last_name: "Schwerin",
     email: "rschwerin26@biglobe.ne.jp",
-    salary: "Euro",
+    salary: "100000",
     date: "6/11/2022",
   },
   {
@@ -636,7 +636,7 @@ const employeeData = [
     first_name: "Leonora",
     last_name: "Kitteringham",
     email: "lkitteringham27@about.me",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "10/16/2021",
   },
   {
@@ -644,7 +644,7 @@ const employeeData = [
     first_name: "Channa",
     last_name: "Trosdall",
     email: "ctrosdall28@github.com",
-    salary: "Denar",
+    salary: "100000",
     date: "9/19/2021",
   },
   {
@@ -652,7 +652,7 @@ const employeeData = [
     first_name: "Shaylynn",
     last_name: "Rodrigo",
     email: "srodrigo29@wordpress.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "4/25/2022",
   },
   {
@@ -660,7 +660,7 @@ const employeeData = [
     first_name: "Dexter",
     last_name: "McGoon",
     email: "dmcgoon2a@squarespace.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "8/8/2022",
   },
   {
@@ -668,7 +668,7 @@ const employeeData = [
     first_name: "Patton",
     last_name: "MacLaig",
     email: "pmaclaig2b@washingtonpost.com",
-    salary: "Euro",
+    salary: "100000",
     date: "5/21/2022",
   },
   {
@@ -676,7 +676,7 @@ const employeeData = [
     first_name: "Milty",
     last_name: "Thornewill",
     email: "mthornewill2c@histats.com",
-    salary: "Real",
+    salary: "100000",
     date: "8/13/2022",
   },
   {
@@ -692,7 +692,7 @@ const employeeData = [
     first_name: "Curtice",
     last_name: "Abadam",
     email: "cabadam2e@telegraph.co.uk",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "10/2/2021",
   },
   {
@@ -700,7 +700,7 @@ const employeeData = [
     first_name: "Bale",
     last_name: "Luparti",
     email: "bluparti2f@illinois.edu",
-    salary: "Peso",
+    salary: "100000",
     date: "7/23/2022",
   },
   {
@@ -708,7 +708,7 @@ const employeeData = [
     first_name: "Shalom",
     last_name: "Rapin",
     email: "srapin2g@xrea.com",
-    salary: "Peso",
+    salary: "100000",
     date: "7/23/2022",
   },
   {
@@ -716,7 +716,7 @@ const employeeData = [
     first_name: "Lorianna",
     last_name: "Barehead",
     email: "lbarehead2h@sciencedirect.com",
-    salary: "Real",
+    salary: "100000",
     date: "7/24/2022",
   },
   {
@@ -724,7 +724,7 @@ const employeeData = [
     first_name: "Howey",
     last_name: "Wavish",
     email: "hwavish2i@over-blog.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "5/31/2022",
   },
   {
@@ -732,7 +732,7 @@ const employeeData = [
     first_name: "Marlowe",
     last_name: "Willwood",
     email: "mwillwood2j@soundcloud.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "5/21/2022",
   },
   {
@@ -748,7 +748,7 @@ const employeeData = [
     first_name: "Danila",
     last_name: "Girard",
     email: "dgirard2l@statcounter.com",
-    salary: "Peso",
+    salary: "100000",
     date: "10/17/2021",
   },
   {
@@ -756,7 +756,7 @@ const employeeData = [
     first_name: "Glad",
     last_name: "Polon",
     email: "gpolon2m@ca.gov",
-    salary: "Rupiah",
+    salary: "100000",
     date: "6/12/2022",
   },
   {
@@ -764,7 +764,7 @@ const employeeData = [
     first_name: "Patrice",
     last_name: "Bedboro",
     email: "pbedboro2n@si.edu",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "12/12/2021",
   },
   {
@@ -772,7 +772,7 @@ const employeeData = [
     first_name: "Claybourne",
     last_name: "Loomis",
     email: "cloomis2o@who.int",
-    salary: "Euro",
+    salary: "100000",
     date: "4/2/2022",
   },
   {
@@ -780,7 +780,7 @@ const employeeData = [
     first_name: "Creigh",
     last_name: "Dyzart",
     email: "cdyzart2p@deviantart.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "10/17/2021",
   },
   {
@@ -788,7 +788,7 @@ const employeeData = [
     first_name: "Charmane",
     last_name: "Paten",
     email: "cpaten2q@dailymail.co.uk",
-    salary: "Real",
+    salary: "100000",
     date: "2/8/2022",
   },
   {
@@ -804,7 +804,7 @@ const employeeData = [
     first_name: "Eadie",
     last_name: "McCobb",
     email: "emccobb2s@quantcast.com",
-    salary: "Euro",
+    salary: "100000",
     date: "12/15/2021",
   },
   {
@@ -820,7 +820,7 @@ const employeeData = [
     first_name: "Alison",
     last_name: "Oliver-Paull",
     email: "aoliverpaull2u@weather.com",
-    salary: "Euro",
+    salary: "100000",
     date: "11/7/2021",
   },
   {
@@ -828,7 +828,7 @@ const employeeData = [
     first_name: "Hodge",
     last_name: "Isabell",
     email: "hisabell2v@hhs.gov",
-    salary: "Rupiah",
+    salary: "100000",
     date: "8/26/2022",
   },
   {
@@ -844,7 +844,7 @@ const employeeData = [
     first_name: "Maury",
     last_name: "Arnoud",
     email: "marnoud2x@etsy.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "2/3/2022",
   },
   {
@@ -852,7 +852,7 @@ const employeeData = [
     first_name: "Ezequiel",
     last_name: "Heggman",
     email: "eheggman2y@apple.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "8/16/2022",
   },
   {
@@ -860,7 +860,7 @@ const employeeData = [
     first_name: "Hestia",
     last_name: "Gawen",
     email: "hgawen2z@chronoengine.com",
-    salary: "Krona",
+    salary: "100000",
     date: "5/11/2022",
   },
   {
@@ -876,7 +876,7 @@ const employeeData = [
     first_name: "Der",
     last_name: "Shrieve",
     email: "dshrieve31@wufoo.com",
-    salary: "Zloty",
+    salary: "100000",
     date: "11/27/2021",
   },
   {
@@ -892,7 +892,7 @@ const employeeData = [
     first_name: "Haze",
     last_name: "Warsop",
     email: "hwarsop33@usatoday.com",
-    salary: "Krona",
+    salary: "100000",
     date: "11/3/2021",
   },
   {
@@ -908,7 +908,7 @@ const employeeData = [
     first_name: "Charmaine",
     last_name: "Hayland",
     email: "chayland35@whitehouse.gov",
-    salary: "Peso",
+    salary: "100000",
     date: "5/22/2022",
   },
   {
@@ -916,7 +916,7 @@ const employeeData = [
     first_name: "Bobbette",
     last_name: "Reilinger",
     email: "breilinger36@xrea.com",
-    salary: "Peso",
+    salary: "100000",
     date: "12/10/2021",
   },
   {
@@ -932,7 +932,7 @@ const employeeData = [
     first_name: "Gilberte",
     last_name: "Dooler",
     email: "gdooler38@loc.gov",
-    salary: "Real",
+    salary: "100000",
     date: "7/14/2022",
   },
   {
@@ -940,7 +940,7 @@ const employeeData = [
     first_name: "Cleve",
     last_name: "Foldes",
     email: "cfoldes39@cargocollective.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "11/6/2021",
   },
   {
@@ -948,7 +948,7 @@ const employeeData = [
     first_name: "Emmeline",
     last_name: "Bartholin",
     email: "ebartholin3a@hubpages.com",
-    salary: "Shilling",
+    salary: "100000",
     date: "12/10/2021",
   },
   {
@@ -956,7 +956,7 @@ const employeeData = [
     first_name: "Kellie",
     last_name: "Cregg",
     email: "kcregg3b@toplist.cz",
-    salary: "Euro",
+    salary: "100000",
     date: "7/25/2022",
   },
   {
@@ -964,7 +964,7 @@ const employeeData = [
     first_name: "Oneida",
     last_name: "Espinos",
     email: "oespinos3c@webmd.com",
-    salary: "Krone",
+    salary: "100000",
     date: "12/5/2021",
   },
   {
@@ -972,7 +972,7 @@ const employeeData = [
     first_name: "Gratiana",
     last_name: "Bilby",
     email: "gbilby3d@lycos.com",
-    salary: "Manat",
+    salary: "100000",
     date: "5/20/2022",
   },
   {
@@ -980,7 +980,7 @@ const employeeData = [
     first_name: "Alanson",
     last_name: "Stoneham",
     email: "astoneham3e@geocities.jp",
-    salary: "Rupiah",
+    salary: "100000",
     date: "5/11/2022",
   },
   {
@@ -988,7 +988,7 @@ const employeeData = [
     first_name: "Steffane",
     last_name: "Frobisher",
     email: "sfrobisher3f@who.int",
-    salary: "Krona",
+    salary: "100000",
     date: "8/4/2022",
   },
   {
@@ -996,7 +996,7 @@ const employeeData = [
     first_name: "Dionysus",
     last_name: "Inder",
     email: "dinder3g@eventbrite.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "10/19/2021",
   },
   {
@@ -1004,7 +1004,7 @@ const employeeData = [
     first_name: "Gianna",
     last_name: "Beveridge",
     email: "gbeveridge3h@comsenz.com",
-    salary: "Euro",
+    salary: "100000",
     date: "5/19/2022",
   },
   {
@@ -1012,7 +1012,7 @@ const employeeData = [
     first_name: "Allyson",
     last_name: "Grisenthwaite",
     email: "agrisenthwaite3i@cbslocal.com",
-    salary: "Peso",
+    salary: "100000",
     date: "8/19/2022",
   },
   {
@@ -1020,7 +1020,7 @@ const employeeData = [
     first_name: "Demetrius",
     last_name: "Pigden",
     email: "dpigden3j@washington.edu",
-    salary: "Ruble",
+    salary: "100000",
     date: "12/5/2021",
   },
   {
@@ -1028,7 +1028,7 @@ const employeeData = [
     first_name: "Lawton",
     last_name: "Smullen",
     email: "lsmullen3k@goo.gl",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "12/19/2021",
   },
   {
@@ -1036,7 +1036,7 @@ const employeeData = [
     first_name: "Beulah",
     last_name: "Sambals",
     email: "bsambals3l@scientificamerican.com",
-    salary: "Peso",
+    salary: "100000",
     date: "6/30/2022",
   },
   {
@@ -1044,7 +1044,7 @@ const employeeData = [
     first_name: "Jolyn",
     last_name: "Le Fevre",
     email: "jlefevre3m@nps.gov",
-    salary: "Rupiah",
+    salary: "100000",
     date: "9/27/2021",
   },
   {
@@ -1052,7 +1052,7 @@ const employeeData = [
     first_name: "Sadella",
     last_name: "Borrows",
     email: "sborrows3n@soup.io",
-    salary: "Rupiah",
+    salary: "100000",
     date: "8/3/2022",
   },
   {
@@ -1060,7 +1060,7 @@ const employeeData = [
     first_name: "Sybyl",
     last_name: "Veillard",
     email: "sveillard3o@oakley.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "2/3/2022",
   },
   {
@@ -1068,7 +1068,7 @@ const employeeData = [
     first_name: "Andromache",
     last_name: "Eyrl",
     email: "aeyrl3p@zimbio.com",
-    salary: "Euro",
+    salary: "100000",
     date: "5/20/2022",
   },
   {
@@ -1076,7 +1076,7 @@ const employeeData = [
     first_name: "Alexandr",
     last_name: "Zink",
     email: "azink3q@goo.ne.jp",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "2/10/2022",
   },
   {
@@ -1084,7 +1084,7 @@ const employeeData = [
     first_name: "Maure",
     last_name: "Pinsent",
     email: "mpinsent3r@purevolume.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "9/20/2021",
   },
   {
@@ -1092,7 +1092,7 @@ const employeeData = [
     first_name: "Christy",
     last_name: "Bater",
     email: "cbater3s@scribd.com",
-    salary: "Euro",
+    salary: "100000",
     date: "9/18/2021",
   },
   {
@@ -1100,7 +1100,7 @@ const employeeData = [
     first_name: "Janelle",
     last_name: "Gavrieli",
     email: "jgavrieli3t@arstechnica.com",
-    salary: "Dinar",
+    salary: "100000",
     date: "11/4/2021",
   },
   {
@@ -1108,7 +1108,7 @@ const employeeData = [
     first_name: "Randolf",
     last_name: "Pleasance",
     email: "rpleasance3u@tripadvisor.com",
-    salary: "Peso",
+    salary: "100000",
     date: "3/9/2022",
   },
   {
@@ -1116,7 +1116,7 @@ const employeeData = [
     first_name: "Rikki",
     last_name: "Bliben",
     email: "rbliben3v@hp.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "5/27/2022",
   },
   {
@@ -1124,7 +1124,7 @@ const employeeData = [
     first_name: "Claude",
     last_name: "Hargess",
     email: "chargess3w@walmart.com",
-    salary: "Hryvnia",
+    salary: "100000",
     date: "9/27/2021",
   },
   {
@@ -1132,7 +1132,7 @@ const employeeData = [
     first_name: "Catlin",
     last_name: "Simoncelli",
     email: "csimoncelli3x@deviantart.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "8/21/2022",
   },
   {
@@ -1140,7 +1140,7 @@ const employeeData = [
     first_name: "Kellie",
     last_name: "Meeke",
     email: "kmeeke3y@abc.net.au",
-    salary: "Euro",
+    salary: "100000",
     date: "3/22/2022",
   },
   {
@@ -1164,7 +1164,7 @@ const employeeData = [
     first_name: "Annmarie",
     last_name: "Bettleson",
     email: "abettleson41@canalblog.com",
-    salary: "Rial",
+    salary: "100000",
     date: "7/13/2022",
   },
   {
@@ -1172,7 +1172,7 @@ const employeeData = [
     first_name: "Cecil",
     last_name: "McComiskie",
     email: "cmccomiskie42@blogger.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "3/14/2022",
   },
   {
@@ -1180,7 +1180,7 @@ const employeeData = [
     first_name: "Noll",
     last_name: "Grossier",
     email: "ngrossier43@reuters.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "10/12/2021",
   },
   {
@@ -1196,7 +1196,7 @@ const employeeData = [
     first_name: "Glynn",
     last_name: "Dirkin",
     email: "gdirkin45@wufoo.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "7/23/2022",
   },
   {
@@ -1204,7 +1204,7 @@ const employeeData = [
     first_name: "Witty",
     last_name: "Euels",
     email: "weuels46@buzzfeed.com",
-    salary: "Peso",
+    salary: "100000",
     date: "5/7/2022",
   },
   {
@@ -1212,7 +1212,7 @@ const employeeData = [
     first_name: "Carlin",
     last_name: "Pleasaunce",
     email: "cpleasaunce47@trellian.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "7/20/2022",
   },
   {
@@ -1220,7 +1220,7 @@ const employeeData = [
     first_name: "Rafaellle",
     last_name: "Erskine Sandys",
     email: "rerskinesandys48@github.com",
-    salary: "Rupiah",
+    salary: "100000",
     date: "5/24/2022",
   },
   {
@@ -1228,7 +1228,7 @@ const employeeData = [
     first_name: "Allayne",
     last_name: "Breinlein",
     email: "abreinlein49@yandex.ru",
-    salary: "Hryvnia",
+    salary: "100000",
     date: "4/5/2022",
   },
   {
@@ -1236,7 +1236,7 @@ const employeeData = [
     first_name: "Calhoun",
     last_name: "Coverly",
     email: "ccoverly4a@businesswire.com",
-    salary: "Krona",
+    salary: "100000",
     date: "2/28/2022",
   },
   {
@@ -1252,7 +1252,7 @@ const employeeData = [
     first_name: "Ethe",
     last_name: "Spradbrow",
     email: "espradbrow4c@deviantart.com",
-    salary: "Rial",
+    salary: "100000",
     date: "9/27/2021",
   },
   {
@@ -1268,7 +1268,7 @@ const employeeData = [
     first_name: "Averil",
     last_name: "McGuffie",
     email: "amcguffie4e@google.co.jp",
-    salary: "Rupiah",
+    salary: "100000",
     date: "4/27/2022",
   },
   {
@@ -1276,7 +1276,7 @@ const employeeData = [
     first_name: "Don",
     last_name: "Trevorrow",
     email: "dtrevorrow4f@meetup.com",
-    salary: "Pound",
+    salary: "100000",
     date: "10/16/2021",
   },
   {
@@ -1284,7 +1284,7 @@ const employeeData = [
     first_name: "Callean",
     last_name: "Janeczek",
     email: "cjaneczek4g@dagondesign.com",
-    salary: "Euro",
+    salary: "100000",
     date: "1/8/2022",
   },
   {
@@ -1300,7 +1300,7 @@ const employeeData = [
     first_name: "Rodolfo",
     last_name: "Jervois",
     email: "rjervois4i@dot.gov",
-    salary: "Euro",
+    salary: "100000",
     date: "5/12/2022",
   },
   {
@@ -1308,7 +1308,7 @@ const employeeData = [
     first_name: "Daryl",
     last_name: "Haccleton",
     email: "dhaccleton4j@slideshare.net",
-    salary: "Peso",
+    salary: "100000",
     date: "8/7/2022",
   },
   {
@@ -1316,7 +1316,7 @@ const employeeData = [
     first_name: "Phillipe",
     last_name: "Megarry",
     email: "pmegarry4k@china.com.cn",
-    salary: "Dollar",
+    salary: "100000",
     date: "5/12/2022",
   },
   {
@@ -1324,7 +1324,7 @@ const employeeData = [
     first_name: "Lisha",
     last_name: "Husher",
     email: "lhusher4l@reuters.com",
-    salary: "Peso",
+    salary: "100000",
     date: "3/28/2022",
   },
   {
@@ -1340,7 +1340,7 @@ const employeeData = [
     first_name: "Dody",
     last_name: "Hains",
     email: "dhains4n@microsoft.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "11/27/2021",
   },
   {
@@ -1356,7 +1356,7 @@ const employeeData = [
     first_name: "Bellanca",
     last_name: "Swayte",
     email: "bswayte4p@ucoz.ru",
-    salary: "Krona",
+    salary: "100000",
     date: "2/11/2022",
   },
   {
@@ -1364,7 +1364,7 @@ const employeeData = [
     first_name: "Ralina",
     last_name: "Thorsen",
     email: "rthorsen4q@qq.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "2/20/2022",
   },
   {
@@ -1372,7 +1372,7 @@ const employeeData = [
     first_name: "Celene",
     last_name: "Trime",
     email: "ctrime4r@wunderground.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "8/15/2022",
   },
   {
@@ -1396,7 +1396,7 @@ const employeeData = [
     first_name: "Honor",
     last_name: "Tortis",
     email: "htortis4u@nationalgeographic.com",
-    salary: "Zloty",
+    salary: "100000",
     date: "6/28/2022",
   },
   {
@@ -1404,7 +1404,7 @@ const employeeData = [
     first_name: "Winn",
     last_name: "Jouning",
     email: "wjouning4v@unblog.fr",
-    salary: "Denar",
+    salary: "100000",
     date: "1/10/2022",
   },
   {
@@ -1412,7 +1412,7 @@ const employeeData = [
     first_name: "Sadye",
     last_name: "Nickolls",
     email: "snickolls4w@surveymonkey.com",
-    salary: "Euro",
+    salary: "100000",
     date: "1/26/2022",
   },
   {
@@ -1420,7 +1420,7 @@ const employeeData = [
     first_name: "Berti",
     last_name: "Lewknor",
     email: "blewknor4x@xing.com",
-    salary: "Peso",
+    salary: "100000",
     date: "5/27/2022",
   },
   {
@@ -1428,7 +1428,7 @@ const employeeData = [
     first_name: "Dixie",
     last_name: "Stanlack",
     email: "dstanlack4y@godaddy.com",
-    salary: "Dollar",
+    salary: "100000",
     date: "9/29/2021",
   },
   {
@@ -1436,7 +1436,7 @@ const employeeData = [
     first_name: "Faustina",
     last_name: "Folonin",
     email: "ffolonin4z@archive.org",
-    salary: "Ruble",
+    salary: "100000",
     date: "10/10/2021",
   },
   {
@@ -1452,7 +1452,7 @@ const employeeData = [
     first_name: "Nola",
     last_name: "Laybourn",
     email: "nlaybourn51@mozilla.org",
-    salary: "Ruble",
+    salary: "100000",
     date: "12/21/2021",
   },
   {
@@ -1460,7 +1460,7 @@ const employeeData = [
     first_name: "Luke",
     last_name: "Amorts",
     email: "lamorts52@slashdot.org",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "5/26/2022",
   },
   {
@@ -1468,7 +1468,7 @@ const employeeData = [
     first_name: "Bob",
     last_name: "Gogarty",
     email: "bgogarty53@seattletimes.com",
-    salary: "Euro",
+    salary: "100000",
     date: "3/2/2022",
   },
   {
@@ -1476,7 +1476,7 @@ const employeeData = [
     first_name: "Colin",
     last_name: "Hilland",
     email: "chilland54@furl.net",
-    salary: "Zloty",
+    salary: "100000",
     date: "3/10/2022",
   },
   {
@@ -1484,7 +1484,7 @@ const employeeData = [
     first_name: "Michaela",
     last_name: "Sellar",
     email: "msellar55@drupal.org",
-    salary: "Peso",
+    salary: "100000",
     date: "11/18/2021",
   },
   {
@@ -1492,7 +1492,7 @@ const employeeData = [
     first_name: "Shir",
     last_name: "Mercy",
     email: "smercy56@zdnet.com",
-    salary: "Real",
+    salary: "100000",
     date: "2/13/2022",
   },
   {
@@ -1500,7 +1500,7 @@ const employeeData = [
     first_name: "Shurlock",
     last_name: "Pindred",
     email: "spindred57@blog.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "10/4/2021",
   },
   {
@@ -1508,7 +1508,7 @@ const employeeData = [
     first_name: "Karlens",
     last_name: "Harrow",
     email: "kharrow58@seattletimes.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "7/13/2022",
   },
   {
@@ -1516,7 +1516,7 @@ const employeeData = [
     first_name: "Glennie",
     last_name: "Sarson",
     email: "gsarson59@indiegogo.com",
-    salary: "Euro",
+    salary: "100000",
     date: "9/28/2021",
   },
   {
@@ -1524,7 +1524,7 @@ const employeeData = [
     first_name: "Biddy",
     last_name: "Stanistreet",
     email: "bstanistreet5a@oakley.com",
-    salary: "Zloty",
+    salary: "100000",
     date: "1/2/2022",
   },
   {
@@ -1532,7 +1532,7 @@ const employeeData = [
     first_name: "Jody",
     last_name: "Fallis",
     email: "jfallis5b@geocities.jp",
-    salary: "Naira",
+    salary: "100000",
     date: "4/27/2022",
   },
   {
@@ -1540,7 +1540,7 @@ const employeeData = [
     first_name: "Wye",
     last_name: "Erridge",
     email: "werridge5c@arstechnica.com",
-    salary: "Ruble",
+    salary: "100000",
     date: "6/6/2022",
   },
   {
@@ -1548,7 +1548,7 @@ const employeeData = [
     first_name: "Neddy",
     last_name: "Kinloch",
     email: "nkinloch5d@ask.com",
-    salary: "Real",
+    salary: "100000",
     date: "2/1/2022",
   },
   {
@@ -1556,7 +1556,7 @@ const employeeData = [
     first_name: "Tammie",
     last_name: "Alliston",
     email: "talliston5e@sitemeter.com",
-    salary: "Guarani",
+    salary: "100000",
     date: "9/24/2021",
   },
   {
@@ -1564,7 +1564,7 @@ const employeeData = [
     first_name: "Sarette",
     last_name: "Renachowski",
     email: "srenachowski5f@ucla.edu",
-    salary: "Zloty",
+    salary: "100000",
     date: "9/28/2021",
   },
   {
@@ -1572,7 +1572,7 @@ const employeeData = [
     first_name: "Kip",
     last_name: "Grob",
     email: "kgrob5g@ustream.tv",
-    salary: "Peso",
+    salary: "100000",
     date: "9/27/2021",
   },
   {
@@ -1580,7 +1580,7 @@ const employeeData = [
     first_name: "Lemmy",
     last_name: "Bee",
     email: "lbee5h@utexas.edu",
-    salary: "Euro",
+    salary: "100000",
     date: "9/27/2021",
   },
   {
@@ -1588,7 +1588,7 @@ const employeeData = [
     first_name: "Florance",
     last_name: "McComiskey",
     email: "fmccomiskey5i@wufoo.com",
-    salary: "Yuan Renminbi",
+    salary: "100000",
     date: "7/20/2022",
   },
   {
@@ -1596,7 +1596,7 @@ const employeeData = [
     first_name: "Dolph",
     last_name: "Maudlin",
     email: "dmaudlin5j@drupal.org",
-    salary: "Ruble",
+    salary: "100000",
     date: "6/23/2022",
   },
 ];
